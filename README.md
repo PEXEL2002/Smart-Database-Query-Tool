@@ -12,4 +12,4 @@ Celem projektu jest stworzenie narzędzia do inteligentnych zapytań do bazy dan
 4. **Generowanie zapytań SQL** - Narzędzie automatycznie generuje zapytania SQL na podstawie wybranych tabel i atrybutów.
 5. **Wyświetlanie wyników** - Wyniki zapytania są wyświetlane w formie tabeli.
 
-### project carried out at a technical school
+### Project carried out at a technical school
